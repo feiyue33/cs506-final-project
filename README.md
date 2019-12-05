@@ -1,6 +1,6 @@
 # CS506 Final Project - Boston Airbnb Open Data Analysis
 
-***Note: The [project report](https://github.com/feiyue33/cs506-final-project/blob/master/result/proj_report.pdf) is attacted in [result](https://github.com/feiyue33/cs506-final-project/tree/master/result) folder. ***
+***Note: The [project report](https://github.com/feiyue33/cs506-final-project/blob/master/result/proj_report.pdf) is attacted in [result](https://github.com/feiyue33/cs506-final-project/tree/master/result) folder.***
 
 ## Introduction
 Airbnb has successfully disrupted the traditional hospitality industry as more and more travelers decide to use Airbnb as their primary accommodation provider. Since its beginning in 2008, Airbnb has seen an enormous growth, with the number of rentals listed on its website growing exponentially each year.We want to explore how Airbnb is really being used in Boston.
