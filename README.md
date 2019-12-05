@@ -8,10 +8,10 @@ Airbnb has successfully disrupted the traditional hospitality industry as more a
 ## Prerequisite
 To successfully run this project, please make sure you already installed these packages:
 ```sh
-pip install nltk
+$ pip install nltk
 ```
 ```sh
-pip install wordcloud
+$ pip install wordcloud
 ```
 ```sh
 $ pip install google-cloud-translate
@@ -29,7 +29,7 @@ $ pip install folium
 ## How to run
 1. Clone the whole project to your desktop.
 ```sh
-git clone git@github.com:feiyue33/cs506-final-project.git
+$ git clone git@github.com:feiyue33/cs506-final-project.git
 ```
 2. Run .ipynb or .py file in [src](https://github.com/feiyue33/cs506-final-project/tree/master/src) folder.
 	- preprocessing_eda.ipynb: preprocessing and exploraotory data analysis.
