@@ -36,7 +36,7 @@ for i in new_df.index:
 new_df.drop(new_df.index[indexes_to_drop], inplace=True)
 
 # translate the comments which are not English
-credential_path = "/Users/gaotian/Desktop/course-2019-spr-proj/auth.json"
+credential_path = "Your own auth.json file of Google Cloud account"
 os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = credential_path
 
 dataTranslated = []
